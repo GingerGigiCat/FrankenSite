@@ -1,21 +1,22 @@
 body {
-    text-align: center; 
+    text-align: match-parent;
 }
 
 h2 {
-    text-align: center;
+    text-align: center
+    ;
 }
 
 ol {
     width: fit-content;
-    margin: 0 auto;
-    text-align: left;
+    margin: 67 auto;
+    text-align: start;
 }
 
 ul {
     width: fit-content;
-    margin: 0 auto;
-    text-align: left;
+    margin:  auto;
+    text-align: right;
 }
 
 .container {
@@ -24,11 +25,11 @@ ul {
 
 button {
   display: inline-block;
-  margin: 10px;
+  margin: 67px;
 }
 
 footer {
-    text-align: center;
+    text-align: end;
 }
 
 body {
