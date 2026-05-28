@@ -1,32 +1,56 @@
 body {
     text-align: center;
+    background-image: url(https://1a-1791.com/video/s8/1/Q/y/9/Q/Qy9Qj.RQ4e-small-GORLOCK-THE-DESTROYER-IS-QU.jpg);
+    color: ghostwhite;
 }
 
 h2 {
     text-align: center;
+    color: ghostwhite;
 }
 
 ol {
     width: fit-content;
     margin: 0 auto;
     text-align: left;
+    color: ghostwhite;
 }
 
 ul {
     width: fit-content;
     margin: 0 auto;
     text-align: left;
+    color: ghostwhite;
 }
 
 .container {
     text-align: center;
+    color: ghostwhite;
 }
 
 button {
   display: inline-block;
   margin: 10px;
+  color: coral;
 }
 
 footer {
     text-align: center;
+    color: ghostwhite;
 }
+image {
+ background-size: cover;
+ background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+   background-color: #000;
+   min-height: 100vh;
+   margin: 0;
+}
+
+body {
+background-image: url('https://tse3.mm.bing.net/th/id/OIP.772ouBIXhxgwQ-dnq1JQ6gHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3');
+background-size: cover;
+background-position: center;
+}
+
